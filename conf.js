@@ -13,20 +13,20 @@ jsproxy_config({
   // 节点配置
   node_map: {
     'demo-hk': {
-      label: 'yy-2点',
+      label: 'flat-mud-雅虎',
       lines: {
         'flat-mud-0c10.029.workers.dev': 1,
         'crimson-snow-3307.029sina.workers.dev': 2,
-      }
+      },
    },
     'demo-sg': {
-      label: '1-639-节点',
+      label: 'feichang99-节点',
       lines: {
-        'flat-mud-0c10.029.workers.dev': 1,
-      }
+        'crimson-snow-3307.029sina.workers.dev': 1,
+      },
     },
      'cfworker': {
-      label: 'jz',
+      label: 'restless-雅虎',
       lines: {
         'restless-moon-9c9d.029.workers.dev': 1,
         'j.xj2.workers.dev': 1,
